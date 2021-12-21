@@ -1,2 +1,1 @@
-# _EMPTY_ONE
-void
+THIS IS VOID
